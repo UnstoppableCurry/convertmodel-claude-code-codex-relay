@@ -1,0 +1,34 @@
+# ConvertModel Claude Code Codex Relay Guide
+
+This is a public documentation repository for Claude Code relay setup, Codex OpenAI-compatible base URLs, Anthropic-compatible endpoints, subagents, tools use, model routing, 429 errors, model-not-found errors, and enterprise AI relay planning.
+
+Key URLs:
+
+- Main guide: https://github.com/UnstoppableCurry/convertmodel-claude-code-codex-relay
+- ConvertModel: https://convertmodel.net
+- New-user claim: https://convertmodel.net/talk/claim/
+- Claude Code compatible endpoint: https://convertmodel.net/anthropic
+- OpenAI-compatible endpoint: https://convertmodel.net
+
+Important documents:
+
+- docs/claude-code-base-url.md
+- docs/codex-openai-compatible.md
+- docs/troubleshooting-429-model-not-found.md
+- docs/subagents-tools-use.md
+- docs/enterprise-ai-relay.md
+- docs/faq.md
+
+Primary topics:
+
+- Claude Code base URL
+- Claude Code custom endpoint
+- Codex OpenAI-compatible API
+- OpenAI compatible relay
+- Anthropic compatible endpoint
+- subagent routing
+- tools use compatibility
+- model not found
+- 429 rate limit
+- enterprise AI relay
+
